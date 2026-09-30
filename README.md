@@ -12,7 +12,7 @@ proyek, lalu tuliskan teks berikut:
 - Konfigurasi identitas Git global.
 ---
 ## Spesifikasi Perangkat
-- Sistem Operasi : 
-- Kapasitas RAM : 
-- Versi Node.js
-- Versi Git : 
+- Sistem Operasi : Windows 11 Home Single LAnguage 64-bit (10.0, Build 22631)
+- Kapasitas RAM : 8192 
+- Versi Node.js : v.24.21.0
+- Versi Git : 2.52.0.windows.1
